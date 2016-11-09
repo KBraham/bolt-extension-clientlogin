@@ -1,6 +1,13 @@
 Client Login
 ============
 
+This extension is not maintained anymore.
+
+Please use the members extension that is build for the current releases of https://bolt.cm
+
+Client Login
+============
+
 An extension to remember authenticated visitors on your Bolt website. This extension uses 
 <a href="http://hybridauth.sourceforge.net" target="_blank">HybridAuth</a> for the actual authentication process
 
